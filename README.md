@@ -1,38 +1,42 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ankasa Website
 
-## Getting Started
+Ankasa Website is a web that provides a place for users to search flight ticket, booking ticket, and show e-ticket. This website was built using Next Js. For Backend, I using my API at the following URL : https://github.com/akbarfaiz/ankasa-api
 
-First, run the development server:
+
+
+## Requirements
+
+    1. Node Js
+    2. Next Js
+    3. Server (Localhost or Online Server)
+
+
+## Installation
+
+1. Clone the repo to your project directory
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+  git clone git@github.com:akbarfaiz/ankasa-next-web.git
 ```
+2. Open your project directory in CMD or terminal
+3. Run command 'npm i' or 'npm install' to download the package on this API
+```bash
+  npm install
+```
+4. Turn on your server like Xampp for localhost
+5. Make new file in your project directory callad '.env.local' and copy this code to that file :
+```bash
+  API_URL='https://unusual-frog-suit.cyclic.app'
+```
+6. Open Your URL Web server
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Documentation
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/fae37aa0-f573-4c7f-bd4f-e6de5549fa28)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/86ec716e-3d55-418a-9324-db713a85757c)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/bcb13f7d-c84e-4f5d-9530-defe998147c6)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/c7a3a917-1274-4304-ad95-680d6b6ad9aa)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/8ec744a3-998d-48f2-87b7-a23c54a0a167)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/9f6a4417-603e-41bc-9813-4a38ae3a5ea3)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/2eb9c9ff-1799-4509-ba8d-ae8bd7db622a)
+![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/dd901c21-2559-4e4c-8ab4-e73e0521e7f5)
