@@ -40,3 +40,7 @@ Ankasa Website is a web that provides a place for users to search flight ticket,
 ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/9f6a4417-603e-41bc-9813-4a38ae3a5ea3)
 ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/2eb9c9ff-1799-4509-ba8d-ae8bd7db622a)
 ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/dd901c21-2559-4e4c-8ab4-e73e0521e7f5)
+
+
+## Projrct Deploy
+https://recipe-react-web.vercel.app
