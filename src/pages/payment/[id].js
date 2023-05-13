@@ -39,7 +39,7 @@ function PaymentPage() {
 
     React.useEffect(() => {
         GetData()
-    },[])
+    },[id])
 
     React.useEffect(() => {
         if (dataBooking) {
