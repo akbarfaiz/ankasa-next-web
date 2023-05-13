@@ -43,4 +43,4 @@ Ankasa Website is a web that provides a place for users to search flight ticket,
 
 
 ## Projrct Deploy
-https://recipe-react-web.vercel.app
+https://ankasa-next-o1f8v60ux-akbarfaiz.vercel.app
