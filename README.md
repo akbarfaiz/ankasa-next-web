@@ -2,7 +2,11 @@
 
 Ankasa Website is a web that provides a place for users to search flight ticket, booking ticket, and show e-ticket. This website was built using Next Js. For Backend, I using my API at the following URL : https://github.com/akbarfaiz/ankasa-api
 
-
+<h3>Built with</h3>
+This app was built with some technologies below : <br>
+- <a href='https://www.javascript.com/'>Javascript</a><br>
+- <a href='https://nextjs.org'>Next Js</a><br>
+- <a href='https://axios-http.com/'>Axios</a><br>
 
 ## Requirements
 
@@ -32,14 +36,15 @@ Ankasa Website is a web that provides a place for users to search flight ticket,
 
 
 ## Documentation
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/fae37aa0-f573-4c7f-bd4f-e6de5549fa28)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/86ec716e-3d55-418a-9324-db713a85757c)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/bcb13f7d-c84e-4f5d-9530-defe998147c6)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/c7a3a917-1274-4304-ad95-680d6b6ad9aa)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/8ec744a3-998d-48f2-87b7-a23c54a0a167)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/9f6a4417-603e-41bc-9813-4a38ae3a5ea3)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/2eb9c9ff-1799-4509-ba8d-ae8bd7db622a)
-![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/dd901c21-2559-4e4c-8ab4-e73e0521e7f5)
+| ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/fae37aa0-f573-4c7f-bd4f-e6de5549fa28) | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/86ec716e-3d55-418a-9324-db713a85757c) |
+|----------------------------------|-----------------------------------|
+| Homepage                         | Login Page                        |
+|![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/bcb13f7d-c84e-4f5d-9530-defe998147c6) | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/c7a3a917-1274-4304-ad95-680d6b6ad9aa) |
+| Register Page                    | Profile Page                      |
+| ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/8ec744a3-998d-48f2-87b7-a23c54a0a167) | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/9f6a4417-603e-41bc-9813-4a38ae3a5ea3) |
+| Search Ticket Page               | Booking Ticket Page               |
+| ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/2eb9c9ff-1799-4509-ba8d-ae8bd7db622a) | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/dd901c21-2559-4e4c-8ab4-e73e0521e7f5) |
+| My Booking Page               | E-Ticket Page               |
 
 
 ## Projrct Deploy
