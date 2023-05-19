@@ -47,5 +47,5 @@ This app was built with some technologies below : <br>
 | My Booking Page               | E-Ticket Page               |
 
 
-## Projrct Deploy
+## Project Deploy
 https://ankasa-next-o1f8v60ux-akbarfaiz.vercel.app
