@@ -1,19 +1,39 @@
-# Ankasa Website
+<div align="center">
+    <h3 align="center">Ankasa Website</h3>
+    <img src='https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/8f74b0be-1ca2-4d38-9cd8-b550b1fe6d0d' width="80" height="50" />
+</div>
 
+## Table of Contents
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#documentation">Documentation</a></li>
+    <li><a href="#related-project">Related Project</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+## About The Project
 Ankasa Website is a web that provides a place for users to search flight ticket, booking ticket, and show e-ticket. This website was built using Next Js. For Backend, I using my API at the following URL : https://github.com/akbarfaiz/ankasa-api
 
-<h3>Built with</h3>
+### Built With
 This app was built with some technologies below : <br>
 - <a href='https://www.javascript.com/'>Javascript</a><br>
 - <a href='https://nextjs.org'>Next Js</a><br>
 - <a href='https://axios-http.com/'>Axios</a><br>
 
-## Requirements
-
-    1. Node Js
-    2. Next Js
-    3. Server (Localhost or Online Server)
-
+## Getting Started
+Before going to the installation stage there are some software that must be installed first.
+* <a href='https://nodejs.org/en/download'>Node Js</a><br>
 
 ## Installation
 
@@ -32,8 +52,11 @@ This app was built with some technologies below : <br>
 ```bash
   API_URL='https://unusual-frog-suit.cyclic.app'
 ```
-6. Open Your URL Web server
-
+6. Open Your URL Web server with command below
+```bash
+  npm run dev //To Start Website
+  npm run start //To Start Production
+```
 
 ## Documentation
 | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/fae37aa0-f573-4c7f-bd4f-e6de5549fa28) | ![image](https://github.com/akbarfaiz/ankasa-next-web/assets/87055460/86ec716e-3d55-418a-9324-db713a85757c) |
@@ -47,5 +70,9 @@ This app was built with some technologies below : <br>
 | My Booking Page               | E-Ticket Page               |
 
 
-## Project Deploy
-https://ankasa-next-o1f8v60ux-akbarfaiz.vercel.app
+## Related Project
+:rocket: [Demo Project](https://ankasa-next-o1f8v60ux-akbarfaiz.vercel.app)<br>
+:rocket: [Backend Repo](https://github.com/akbarfaiz/ankasa-api)
+
+## License
+Distributed under the [MIT](/LICENSE) License.
